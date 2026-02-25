@@ -2,14 +2,14 @@
 
 This repository contains a comprehensive **SQL-based data analytics project** analyzing bidding patterns and trends in the Indian Premier League (IPL). The goal is to derive insights from historical IPL auction data using structured queries, visual analysis, and business-aligned interpretation.
 
-## 📌 Project Objective
+## Project Objective
 
 - Analyze bidding trends across IPL seasons
 - Identify player value drivers (e.g., role, performance metrics)
 - Evaluate franchise bidding strategies
 - Support data-driven decision making for IPL stakeholders
 
-## 🧠 Data Source
+## Data Source
 
 The primary dataset contains detailed IPL player auction data, including:
 - Player names and roles (batsman, bowler, all-rounder)
@@ -20,7 +20,7 @@ The primary dataset contains detailed IPL player auction data, including:
 
 *(Dataset referenced via local SQL tables or imported CSVs for analysis.)*
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 | Task | Tools |
 |------|-------|
